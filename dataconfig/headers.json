@@ -1,0 +1,5 @@
+{"login":{"Cookie": "PHPSESSID=klt1cvhabs36kvo7cgb1oa9a2m; laravel_session=gNQRt4cE4hzfirJVRr4zSg0whfsMaUlr6wLi28yo; io=lurf6p18K5KCsPZpAAh3","Content-Length":"28","Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"},
+"home":{"Cookie": "PHPSESSID=u43gfeuqcejnli8niqfclilupn; laravel_session=iKuJL4wCxcjkI06KaA2SZqaDbzsdWE0vMg91IzRI; io=VBQtvIqwH1BqT4AbAApm",
+		"Referer": "http://47.93.16.173:10010/home/teacher/index",
+		"Upgrade-Insecure-Requests": "1"}
+}
